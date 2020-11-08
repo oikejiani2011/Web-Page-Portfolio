@@ -108,6 +108,17 @@ footer #copyright {
   border: 1px #777
 }
 
+.top-full-image {
+  position: relative;
+  min-width: 100px;
+}
+
+.top-full-image img {
+  display: block;
+  width: 100%;
+  border: 1px #777
+}
+
 .full-width {
   width: 100%;
 }
